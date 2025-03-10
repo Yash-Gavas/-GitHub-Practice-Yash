@@ -1,1 +1,1 @@
-# -GitHub-Practice-Yash
+# "A repository to practice GitHub workflow."
